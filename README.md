@@ -78,6 +78,8 @@ DetailPageThreadPool负责下载用户详情页面，解析出用户基本信息
 #### 2017.05.26
 * 修复代理返回错误数据，导致java.lang.reflect.UndeclaredThrowableException异常。
 
+#### 2017.11.05
+* 知乎authorization文件更新，修改authorization获取方式。
 ## TODO
 * 优化爬取速度
 
@@ -86,4 +88,6 @@ DetailPageThreadPool负责下载用户详情页面，解析出用户基本信息
 * 有问题的请提issue。
 * 欢迎贡献代码。
 * 爬虫交流群：633925314，欢迎交流。
+* 需要数据(117w知乎用户基本信息资料)的，关注公众号即可：lwndso<br>
+![](https://github.com/wycm/zhihu-crawler/blob/2.0/src/main/resources/img/wx.jpg)
 
